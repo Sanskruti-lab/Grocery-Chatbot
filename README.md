@@ -17,11 +17,8 @@ This is a simple and interactive chatbot created using **HTML**, **CSS**, and **
 - Customer support bots
 - Demo portfolio projects
 
-## 📽 Demo
-Include a screen recording or [link to video](#) here if available.
+
 
 ## 🤝 Contributing
 Feel free to fork this repo, improve the chatbot, and make pull requests!
 
-## 📄 License
-This project is open source and available under the [MIT License](LICENSE).
